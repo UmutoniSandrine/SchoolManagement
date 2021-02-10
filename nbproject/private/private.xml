@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/bitwayiki/NetBeansProjects/school_management/src/com/schoolManagement/domain/Course.java</file>
+            <file>file:/home/bitwayiki/NetBeansProjects/school_management/test/TestAll/FacultyTestDao.java</file>
+            <file>file:/home/bitwayiki/NetBeansProjects/school_management/src/com/schoolManagement/domain/Department.java</file>
+            <file>file:/home/bitwayiki/NetBeansProjects/school_management/src/com/schoolManagement/domain/Gender.java</file>
+            <file>file:/home/bitwayiki/NetBeansProjects/school_management/src/DataBaseDao/StudentDao.java</file>
+            <file>file:/home/bitwayiki/NetBeansProjects/school_management/src/com/schoolManagement/util/HibernateDbUtil.java</file>
+            <file>file:/home/bitwayiki/NetBeansProjects/school_management/test/TestAll/StudentTestDao.java</file>
+            <file>file:/home/bitwayiki/NetBeansProjects/school_management/src/DataBaseDao/FacultyDao.java</file>
+            <file>file:/home/bitwayiki/NetBeansProjects/school_management/test/TestAll/DepartmentTestDao.java</file>
+            <file>file:/home/bitwayiki/NetBeansProjects/school_management/test/TestAll/RegistrationTestDao.java</file>
+            <file>file:/home/bitwayiki/NetBeansProjects/school_management/test/OperationTest/AbstratClassTest.java</file>
+            <file>file:/home/bitwayiki/NetBeansProjects/school_management/src/com/schoolManagement/domain/Faculty.java</file>
+            <file>file:/home/bitwayiki/NetBeansProjects/school_management/src/hibernate.cfg.xml</file>
+            <file>file:/home/bitwayiki/NetBeansProjects/school_management/src/com/schoolManagement/util/TestClass.java</file>
+            <file>file:/home/bitwayiki/NetBeansProjects/school_management/test/OperationTest/AllOperationClassesDao.java</file>
+            <file>file:/home/bitwayiki/NetBeansProjects/school_management/test/TestAll/CourseTestDao.java</file>
+            <file>file:/home/bitwayiki/NetBeansProjects/school_management/src/com/schoolManagement/domain/Student.java</file>
+            <file>file:/home/bitwayiki/NetBeansProjects/school_management/src/DataBaseDao/CourseDao.java</file>
+        </group>
+    </open-files>
+</project-private>
